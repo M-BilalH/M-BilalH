@@ -1,5 +1,5 @@
 # 💫 About Me:
-### Hi there 👋<br><br>- 🔭 I’m currently working on a Flutter-based e-commerce app with modern UI and smooth animations.  <br>- 🌱 I’m currently learning advanced Jetpack Compose and state management in Flutter.  <br>- 🤝 I’m looking to contribute on open-source projects related to mobile apps and UI libraries.  <br>- 🛠️ I’m looking for help with improving app performance and Firebase integrations.  <br>- 💬 Ask me about Flutter, PHP projects, or building clean multi-module Android apps.  <br>- 😄 Fun fact: I once built a home automation system that controlled lights with just my phone.  <br>
+### Hi there, I am a Full Stack App Developer 👋<br><br>- 🔭 I’m currently working on a Flutter-based e-commerce app with modern UI and smooth animations.  <br>- 🌱 I’m currently learning advanced Jetpack Compose and state management in Flutter.  <br>- 🤝 I’m looking to contribute on open-source projects related to mobile apps and UI libraries.  <br>- 🛠️ I’m looking for help with improving app performance and Firebase integrations.  <br>- 💬 Ask me about Flutter, PHP projects, or building clean multi-module Android apps.  <br>- 😄 Fun fact: I once built a home automation system that controlled lights with just my phone.  <br>
 
 
 ## 🌐 Socials:
